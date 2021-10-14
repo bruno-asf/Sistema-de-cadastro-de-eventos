@@ -1,0 +1,7 @@
+Sistema de cadastro de eventos.
+
+ - Permitir evento somente se a data do evento for antes da data atual.
+
+ - Cadastrar participantes somente se for maior de 18 anos.
+
+ - Limite máximo para cadastro até 100 participantes.
